@@ -1,9 +1,10 @@
 //#include <cstddef>  // for std::size_t
 //#include <iostream>
 //#include <limits>
-
-
+//
+//
 //bool isAllowedToTakeFunRide() {
+//
 //	std::cout << "How tall are you? (cm): ";
 //
 //	double height{};
@@ -13,6 +14,7 @@
 //}
 //
 //int main() {
+//
 //	if (isAllowedToTakeFunRide())
 //		std::cout << "Have fun!\n";
 //	else

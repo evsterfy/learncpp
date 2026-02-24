@@ -109,6 +109,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -124,6 +125,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
@@ -132,17 +134,15 @@
     <ClCompile Include="Source Files\ballTowerDrop.cpp" />
     <ClCompile Include="Source Files\funRideHeight.cpp" />
     <ClCompile Include="Source Files\isPrimeNumber.cpp" />
-    <ClCompile Include="Source Files\operateTwoNums.cpp" />
     <ClCompile Include="Source Files\practice.cpp" />
-    <ClCompile Include="Source Files\sortOldestAge.cpp" />
-    <ClCompile Include="Source Files\whichPersonIsOlder.cpp" />
+    <ClCompile Include="Source Files\solveDoubles.cpp" />
+    <ClCompile Include="Source Files\sortNamesByAge.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Object Include="x64\Debug\asciiValueStaticCast.obj" />
     <Object Include="x64\Debug\ballTowerDrop.obj" />
     <Object Include="x64\Debug\funRideHeight.obj" />
     <Object Include="x64\Debug\isPrimeNumber.obj" />
-    <Object Include="x64\Debug\operateTwoNums.obj" />
     <Object Include="x64\Debug\practice.obj" />
   </ItemGroup>
   <ItemGroup>

@@ -18,9 +18,6 @@
     <ClCompile Include="Source Files\ballTowerDrop.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source Files\operateTwoNums.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Source Files\funRideHeight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -33,13 +30,13 @@
     <ClCompile Include="Source Files\addNameAndAge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source Files\whichPersonIsOlder.cpp">
+    <ClCompile Include="Source Files\sortNamesByAge.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Source Files\practice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source Files\sortOldestAge.cpp">
+    <ClCompile Include="Source Files\solveDoubles.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -48,7 +45,6 @@
     <Object Include="x64\Debug\ballTowerDrop.obj" />
     <Object Include="x64\Debug\funRideHeight.obj" />
     <Object Include="x64\Debug\isPrimeNumber.obj" />
-    <Object Include="x64\Debug\operateTwoNums.obj" />
     <Object Include="x64\Debug\practice.obj" />
   </ItemGroup>
   <ItemGroup>

@@ -4,9 +4,6 @@
 //#include <string>
 //
 //
-//
-//Full name length + age.
-//Include all whitespace.
 // 
 //int main() {
 //
