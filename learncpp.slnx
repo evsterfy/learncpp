@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Calculator/Calculator.vcxproj" Id="2a2b8e71-0390-48e8-b19d-921625644036" />
+  <Project Path="learncpp.vcxproj" Id="d93be5c9-74f8-4164-bb3f-b0fd175b352d" />
+  <Project Path="practice/practice.vcxproj" Id="be503b0b-34b5-493a-915e-687239ce0e43" />
+</Solution>

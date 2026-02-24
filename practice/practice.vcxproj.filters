@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source Files\ballTowerDrop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\operateTwoNums.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\funRideHeight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\isPrimeNumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\asciiValueStaticCast.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\addNameAndAge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\whichPersonIsOlder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\practice.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source Files\sortOldestAge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="x64\Debug\asciiValueStaticCast.obj" />
+    <Object Include="x64\Debug\ballTowerDrop.obj" />
+    <Object Include="x64\Debug\funRideHeight.obj" />
+    <Object Include="x64\Debug\isPrimeNumber.obj" />
+    <Object Include="x64\Debug\operateTwoNums.obj" />
+    <Object Include="x64\Debug\practice.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="x64\Debug\practice.exe.recipe" />
+    <None Include="x64\Debug\practice.ilk" />
+    <None Include="x64\Debug\vc145.idb" />
+    <None Include="x64\Debug\vc145.pdb" />
+    <None Include="x64\Debug\practice.tlog\CL.command.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\Cl.items.tlog" />
+    <None Include="x64\Debug\practice.tlog\CL.read.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\CL.write.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\link.command.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\link.read.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\link.secondary.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\link.write.1.tlog" />
+    <None Include="x64\Debug\practice.tlog\practice.lastbuildstate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="x64\Debug\practice.log" />
+  </ItemGroup>
+</Project>
